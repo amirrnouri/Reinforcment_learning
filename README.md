@@ -1,2 +1,2 @@
 # Reinforcment_learning
-University of California, Berkeley, AI Reinforcment Project (Crawler Robot and Pacman)
+University of California, Berkeley, AI Course, Reinforcment Project (Crawler Robot and Pacman)
